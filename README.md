@@ -1,2 +1,1 @@
-# SUCCINT-JUMP
-A simple doodle jump style game for #SuccinctRockStars
+just run the index.html file in the folder
